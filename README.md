@@ -10,4 +10,6 @@ O desafio consiste em fazer uma tela inicial que contém:
 
 
 Essa foi a tela construída:
+
+
 ![image](https://user-images.githubusercontent.com/38014924/143498483-fcc213cf-4324-4818-a6d9-b4749eb5c951.png)
